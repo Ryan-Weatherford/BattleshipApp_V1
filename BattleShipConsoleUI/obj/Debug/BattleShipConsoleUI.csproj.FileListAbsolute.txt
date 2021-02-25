@@ -1,0 +1,20 @@
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.exe.config
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.exe
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.pdb
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipLibrary.dll
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipLibrary.pdb
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csprojAssemblyReference.cache
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csproj.CopyComplete
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.exe
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.pdb
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.exe.config
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.exe
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipConsoleUI.pdb
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipLibrary.dll
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\bin\Debug\BattleShipLibrary.pdb
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csprojAssemblyReference.cache
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.csproj.CopyComplete
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.exe
+C:\Users\ryanw\repos\BattleShipApp\BattleShipConsoleUI\obj\Debug\BattleShipConsoleUI.pdb

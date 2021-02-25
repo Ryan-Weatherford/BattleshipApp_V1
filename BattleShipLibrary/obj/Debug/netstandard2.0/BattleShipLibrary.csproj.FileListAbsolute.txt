@@ -1,0 +1,9 @@
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\bin\Debug\netstandard2.0\BattleShipLibrary.deps.json
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\bin\Debug\netstandard2.0\BattleShipLibrary.dll
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\bin\Debug\netstandard2.0\BattleShipLibrary.pdb
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.csprojAssemblyReference.cache
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.AssemblyInfoInputs.cache
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.AssemblyInfo.cs
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.dll
+C:\Users\ryanw\repos (practice)\BattleShipApp\BattleShipLibrary\obj\Debug\netstandard2.0\BattleShipLibrary.pdb
